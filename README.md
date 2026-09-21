@@ -2,12 +2,12 @@
 <h3 align="center">I’m a software engineer-in-training (ALX SWE) focused on building reliable, maintainable, and useful systems from Kenya</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fredrickmbithi&label=Profile%20views&color=0e75b6&style=flat" alt="fredrickmbithi" />
+  <img src="https://komarev.com/ghpvc/?username=Fredrick-Mbithi&label=Profile%20views&color=0e75b6&style=flat" alt="fredrickmbithi" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fredrickmbithi" alt="fredrickmbithi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Fredrick-Mbithi" alt="fredrickmbithi" />
   </a>
 </p>
 
@@ -148,13 +148,13 @@
 </ul> -->
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickmbithi&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fredrick-Mbithi&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickmbithi&show_icons=true&locale=en" alt="GitHub Stats"/>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fredrick-Mbithi&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickmbithi" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fredrick-Mbithi" alt="GitHub Streak"/>
 </p>
